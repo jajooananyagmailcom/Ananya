@@ -1,2 +1,0 @@
-# Ananya
-Created with CodeSandbox
